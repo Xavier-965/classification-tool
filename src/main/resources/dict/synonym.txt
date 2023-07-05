@@ -1,0 +1,138 @@
+项目管理=project management=pm=项目经理=project manager
+敏捷开发=agile development
+风险管理=risk management=风控=风险控制
+uml=统一建模语言
+架构=系统架构=architect
+photoshop=ps
+数据架构=data architecture
+load runner=loadrunner
+自动化测试=automation testing=automation test
+手动测试=manual testing
+性能测试=performance testing
+安全测试=security testing
+功能测试=functional testing
+回归测试=regression testing
+测试=testing
+测试用例=test case
+testlink=test link
+qtp=uft=unified functional testing=quicktest professional
+clearcase=cc=clear case
+robotium=robot framework
+qa=quality assurance=qc=quality control=质量管理=质量控制=品质管理=sqa=qa/qc
+Test Partner=testpartner
+object-c=objective-c
+汇编语言=assembly language=asm
+shell=bash
+embedded c=嵌入式c
+embedded c++=嵌入式c++
+verilog=verilog HDL
+luci=ffluci
+ocaml=object caml
+算法=algorithm
+设计模式=design pattern
+数据结构=data structure
+webservice=web service
+消息队列=message queue=queue=mq
+微服务=micro service=microservice
+嵌入式=embedded=嵌入式开发
+中间件=middleware
+springmvc=spring mvc
+springcloud=spring cloud
+springbatch=spring batch
+springboot=spring boot
+cas=central authentication service
+sqlserver=sql server
+postgre=pg=postgresql=postgre sql
+oraclerac=oracle-rac
+js=javascript
+html5=h5
+ext=extjs=ext.js
+angularjs=angular.js=angular
+backbone.js=backbone=backbonejs
+emberjs=ember.js
+coffeejs=coffee.js
+knockoutjs=knockout.js
+nodejs=node.js
+bi=business intelligence=商业智能
+数据分析=da=data analysis
+etl=extract transform load
+特征提取=提取特征
+数据挖掘=data mining
+数据建模=data modeling
+数据仓库=data warehouse=dwh=数仓
+数据集市=data mart
+数据编织=fabric=data fabric
+fpgrowth=fp-growth
+数据湖=data lake
+vse=vm=os/400=aix=os400=os/2=os2
+自然语言处理=nlp=Natural Language Processing
+机器学习=ml=machine learning
+vmsphere=vmware vsphere=vmware sphere
+java=corejava=jdk=j2se=j2ee=javaee=java ee
+vb=visual basic
+中间件=middleware
+大数据=big data
+r=r语言=r language
+ba=business analysis=业务分析=需求分析
+思维导图=脑图
+mind manager=mindmanager
+用例图=use case
+时序图=sequence diagram=顺序图
+go=golang
+k8s=Kubernetes
+it支持=it support
+infra=infrastructure
+防火墙=firewall
+memcachedb=memcache
+小型机=risc 6000=risc/6000=rs/6000=rs6000=aix
+大型机=mf=os390=vsam=cics=tso=zos=mainframe=主机=z/os
+cobol=jcl
+mf testing=主机测试
+中型机=as400=as/400=os400
+数据库=database
+网络=network
+mybatis=ibatis
+java虚拟机=jvm
+excel/vba=vba=excel=excel vba
+实时系统=real time system=realtime system
+windows server=win server=winserver
+powerbuilder=pb=power builder
+机器视觉=计算机视觉
+dba=数据库管理员
+并行计算=并行=多进程
+并发=多线程
+ux=ui=user interface=ue=user experience
+rpc=远程过程调用
+transformer=迁移学习
+web开发=web development
+区块链=blockchain
+PRINCE2=Project IN Controlled Environment
+rpa=Robotic process automation=机器人流程自动化
+axure=axure rp=axurerp
+sme=Subject Matter Expert
+insurance=保险
+决策=decision-making=decision making
+ai=Artificial Intelligence
+c/c++=c++=c
+soapui=soap ui
+silverlight=silver light
+全栈=full stack
+文件系统=file system
+产品开发=产品研发
+调优=fine turning
+plm=产品生命周期管理
+scm=供应链管理
+tdd=测试驱动开发
+mcu=单片机
+maxcomputer=maxcompute
+sdlc=软件开发生命周期
+数据治理=data Governance
+react native=reactnative
+ci/cd=cicd
+postgre=postgres
+gis=地理信息系统
+requiredjs=requirejs
+压力测试=stress test
+hybirdapp=hy birdapp
+vr=虚拟现实
+机器学习=machine learning

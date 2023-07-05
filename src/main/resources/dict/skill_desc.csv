@@ -1,0 +1,941 @@
+as400,当今世界上最流行的中小型、多用户商业计算机系统
+t-sql,transact sql
+informatica,数据管理工具
+teradata,数据仓库软件
+lucene.net,.net平台下的搜索引擎
+mysql,常用的关系型数据库
+aws,亚马逊云服务
+automation anywhere,一款针对商业以及IT的任务自动执行工具
+c#,.net平台的重要开发语言
+carbondata,apache carbondata是一种新的大数据文件格式，使用先进的柱状存储、索引、压缩和编码技术，实现更快的交互式查询，从而提高计算效率，这有助于提高pb级数据的查询速度。
+olingo,apache olingo是一个实现开放数据协议（odata）的java库
+team leader,团队leader
+tomcat,java平台常用的web服务器
+hyper-v,微软的一款虚拟化产品，是微软第一个采用类似Vmware ESXi和Citrix Xen的基于hypervisor的技术。
+实时系统,指系统能及时响应外部事件的请求，在规定的时间内完成对该事件的处理，并控制所有实时任务协调一致的运行。
+excalibur,apache excalibur是apache avalon的前身，它托管avalon框架、java容器框架、excalibur和fortress控制反转容器以及一个丰富的组件库。excalibur代码为apache james和cocoon以及许多其他开源和商业项目提供了支持。
+linkedin norbert,集群管理器;
+citrix,涉及云计算虚拟化、虚拟桌面和远程接入技术领域的高科技企业
+fortress,apache fortress是一个基于标准的授权系统，用java编写，它使用ldap后端提供基于角色的访问控制、委托管理和密码策略服务。
+ux,User experience的缩写
+backbonejs,为复杂Javascript应用程序提供模型(models)、集合(collections)、视图(views)的结构。其中模型用于绑定键值数据和自定义事件；集合附有可枚举函数的丰富API； 视图可以声明事件处理函数，并通过RESTful JSON接口连接到应用程序
+sling,一个自然语言框架语义解析器
+servlet,
+finagle,jvm的异步网络堆栈。
+推荐算法,利用用户的一些行为，通过一些数学算法，推测出用户可能喜欢的东西。
+plot.ly,易于使用的web服务，它允许快速创建从热图到直方图等复杂的图表，使用图表plotly的在线电子表格上传数据进行创建和设计;
+禅道,一款国产项目管理软件
+cosbench,一款性能测试工具
+bluiecoat,上网行为管理系统
+ba,business analysis
+elasticsearch,基于lucene的搜索和分析引擎
+theano,深度学习框架之一
+线程池,一种多线程处理形式，处理过程中将任务添加到队列，然后在创建线程后自动启动这些任务。
+insurance,
+测试,
+系统管理,
+linux,一种操作系统
+junit,java平台的单元测试工具
+rhce,Red Hat Certified Engineer（红帽认证工程师）
+convnetjs,javascript中的机器学习，在浏览器中训练卷积神经网络(或普通网络);
+thrift,构建二进制协议的框架;
+vant,基于vue的移动组件库
+react,Red Hat Certified Engineer，红帽认证工程师
+airflow,工作流自动化和调度，可用于编写和管理数据管道
+brpc,brpc是一个用于构建可靠和高性能服务的工业级rpc框架。
+vmware,使用针对现代应用、多云、数字化工作空间、安全和网络的 VMware 解决方案构建数字化基础，以在任何设备和任何云环境中运行任何应用。
+asp.net,基于.NET Framework的Web开发平台
+函数式编程,种编程方式，它将电脑运算视为函数的计算。函数编程语言最重要的基础是λ演算（lambda calculus），而且λ演算的函数可以接受函数当作输入（参数）和输出（返回值）。
+taskflow,UNIT推出的新一代对话管理技术，开发者可通过简洁直观的图形化配置(后续版本升级提供，目前通过配置文件完成配置)，高效定制属于自己的对话管理能力。
+abs,Asset-backed Securities的缩写，即信贷资产支持证券。
+hive,基于Hadoop的一个数据仓库工具，用来进行数据提取、转化、加载，这是一种可以存储、查询和分析存储在Hadoop中的大规模数据的机制。h
+chukwa,一个用于监视大型分布式系统的开源数据收集系统。chukwa构建在hdfs和map/reduce框架之上，继承了hadoop的可扩展性和健壮性。chukwa还包括一个灵活而强大的工具包，用于显示、监视和分析结果，以最佳地利用收集到的数据。
+flume,Cloudera提供的一个高可用的，高可靠的，分布式的海量日志采集、聚合和传输的系统，Flume支持在日志系统中定制各类数据发送方，用于收集数据；同时，Flume提供对数据进行简单处理，并写到各种数据接受方（可定制）的能力
+caffe,全称Convolutional Architecture for Fast Feature Embedding）是一个兼具表达性、速度和思维模块化的深度学习框架
+自动化测试,
+时间管理,
+scikit-learn,scikit-learn为python中的机器学习库;
+架构,
+lily hbase indexer,快速、轻松地搜索存储在hbase的任何内容;
+acs,思科安全访问控制服务器（cisco secure access control server）
+数据可视化,
+cordova,是一个使用标准web技术(html、css和javascript)创建跨平台应用的工具
+js,JavaScript
+spindle,使用scala、spark和parquet处理的下一代web分析;
+luci,一种固件脚本语言
+nuttx,一个实时嵌入式操作系统（embedded rtos）
+v,一种编程语言
+存储过程,（Stored Procedure）是在大型数据库系统中，一组为了完成特定功能的SQL 语句集，它存储在数据库中，一次编译后永久有效
+mariadb,一种关系型数据库，类似mysql
+chartist.js,另一个开源html5图表可视化效果;
+silktest,一款用于企业级应用进行功能测试的产品。
+postfix,是Wietse Venema在IBM的GPL协议之下开发的MTA（邮件传输代理）软件。
+pascal,一种过程式编程语言
+excel/vba,
+esxi,为运行虚拟机、最大限度降低配置要求和简化部署而设计。
+ios,苹果的移动操作系统
+phantomjs,一个基于webkit的JavaScript API。它使用QtWebKit作为它核心浏览器的功能，使用webkit来编译解释执行JavaScript代码。
+httpclient,
+kafka,一款消息队列组件，银行用得比较多
+全网测试,指业务涉及普通投资者，面向全体会员进行的系统测试。
+android,谷歌的移动操作系统
+风险管理,
+felix,osgi框架实现及相关技术。
+linkedin cleo,为一个一个灵活的软件库，使得局部、无序、实时预输入的搜索实现了快速发展;
+webservice,是基于网络的、分布式的模块化组件，它执行特定的任务，遵守具体的技术规范，这些规范使得Web Service能与其他兼容的组件进行交互操作。
+ccna,此证书标志着具备安装、配置、运行中型路由和交换网络，并进行故障排除的能力。
+mesos,Apache下的开源分布式资源管理框架，它被称为是分布式系统的内核。
+pentaho,商业智能平台;
+数据库,
+empire-db,apache empire-db是为那些在制定查询和dml - statement时努力获得完全sql自由的开发人员而设计的——而不必使用字符串字面量——并且还希望能够控制语句的执行时间和方式。与其他方法不同，empire-db不依赖java注释或映射文件来构建查询，而是使用易于访问和扩展的java对象模型。对于数据访问和数据交换，开发人员可以在传统java bean和record和datalistentry类提供的更复杂的动态接口之间进行选择。empire-db是独立于dbms供应商的，为oracle， microsoft sqlserver， postgresql， mysql， hsqldb， derby， h2等提供处理程序。
+puma benchmarking,mapreduce应用的基准测试套件;
+memcached,memcache的分支;
+chartd,只带img标签的反应灵敏、兼容retina的图表;
+grafana,石墨仪表板前端、编辑器和图形组合器;
+lua,一个小巧的脚本语言。
+requiredjs,一个JavaScript模块加载器。
+servicemix,一个建立在jbi (jsr 208)语法规则和apis上的开源esb(enterprise service bus:企业服务总线)
+vmsphere,vmware sphere。可靠的虚拟化平台。
+中型机,
+vsam,Virtual storage access method 虚拟存储访问方法
+uat,(User Acceptance Test)，也就是用户验收测试，或用户可接受测试，系统开发生命周期方法论的一个阶段，这时相关的用户或独立测试人员根据测试计划和结果对系统进行测试和接收。
+dapr,distributed application runtime
+selinux,(Security-Enhanced Linux) 是美国国家安全局（NSA）对于强制访问控制的实现，是 Linux历史上最杰出的新安全子系统。
+easytrieve,一种比cobol语言更古老的语言，语法与cobol类似。easytrieve技术也是主机项目开发常用到的技术
+bootstrap,Twitter推出的一个用于前端开发的开源工具包。
+ssh,SSH是一种网络协议，用于计算机之间的加密登录。
+产品研发,
+indexr,一个专注于大数据实时分析的分布式列式数据库，它基于HDFS，能快速分析海量结构化数据，支持实时导入并且查询秒级延迟，特别适合ad-hoc场景下的OLAP查询。
+full stack,全栈开发，一般包括前端和后端的开发技能
+isis,apache isis是一个用java快速开发域驱动应用程序的框架。在实体、域服务和存储库中编写业务逻辑，框架动态地(在运行时)生成该域模型的表示形式，作为webapp或restful api。用于原型或生产。
+groovy,一种基于JVM（Java虚拟机）的敏捷开发语言，它结合了Python、Ruby和Smalltalk的许多强大的特性，Groovy 代码能够与 Java 代码很好地结合，也能用于扩展现有代码。
+防火墙,
+sikuli,MIT的研究人员设计了一种新颖的图形脚本语言Sikuli，计算机用户只须有最基本的编程技能（比如会写printhello world），他不需要去写出一行行代码，而是用屏幕截图的方式，用截出来的图形元素组合出神奇的程序。
+datav,数据可视化工具
+redash,查询和可视化数据的开源平台;
+ctc,
+cisc,复杂指令集计算机
+k8s,
+机器视觉,
+uipath,一个rap产品
+数据库维护,
+batik,batik是一个基于java的工具包，用于应用程序或applet使用可缩放矢量图形(scalable vector graphics， svg)格式的图像实现各种目的，如显示、生成和操作。
+berkeley swim benchmark,现实大数据工作负载基准测试;
+fpgrowth,数据挖掘领域关联算法
+matplotlib,一个 Python 的 2D绘图库
+actionscript,flash的脚本语言
+jmeter,测试工具
+ppp,点对点协议（point to point protocol，ppp）
+sequoiadb,一款金融级分布式关系型数据库，其自研的原生分布式存储引擎支持完整 ACID，具备弹性扩展、高并发和高可用特性，支持 MySQL、PostgreSQL 和 SparkSQL 等多种 SQL 访问形式，同时支持MongoDB引擎。
+语音识别,
+jquery,一个javascript的前端框架
+关系型数据库,
+hbase coprocessor,为percolator的实现，hbase的一部分;
+twemcache,memcache的分支。
+olap,一种软件技术，它使分析人员能够迅速、一致、交互地从各个方面观察信息，以达到深入理解数据的目的。
+apisix,原生云微服务api网关
+crail,是分布式数据处理作业中用于高速共享性能关键数据的存储平台。
+ecs,元素构造集（apache esc）是一个用于为各种标记语言生成元素的java api，它直接支持html 4.0和xml，但是可以很容易地扩展为任何标记语言创建标记。
+spark,专为大规模数据处理而设计的快速通用的计算引擎
+heron,一个实时、分布式、容错的流处理引擎。
+airpal,用于prestodb的网页ui;
+arm,ARM公司面向市场设计的RISC微处理器。
+bugfree,bug管理工具
+obiee,oracle的BI工具
+giraph,apache giraph是为高可伸缩性而构建的迭代图形处理系统。例如，facebook目前使用它来分析用户及其联系形成的社交图谱。
+压力测试,压力测试（Stress Test），也称为强度测试、负载测试。
+echarts,百度出的浏览器端的图表组件库
+标准模板库,
+sei/cmm,Capability Maturity Model 软件能力成熟度模型
+shiro,一个强大且易用的Java安全框架，执行身份验证、授权、密码和会话管理。
+fluo recipes,apache fluo recipes建立在fluo api之上，为开发人员提供额外的功能。它们根据自己的发布计划与fluo分开发布。这使得fluo recipes可以比fluo更快地迭代和创新(fluo将在较慢的发布周期中保持更小的api)。fluo recipes提供了在fluo api之上实现通用模式的代码。它还为spark和kryo等外部库提供粘合代码。
+iaas,Infrastructure as a Service），即基础设施即服务。
+prince2,
+webapp,
+cl,
+ldap,
+postgres-xl,
+shale,shale is a modern web application framework， fundamentally based on javaserver faces.
+hunk,hadoop的splunk分析;
+cics,
+sense,用于数据科学和大数据分析的云平台;
+chart.js,开源的html5图表可视化效果;
+rat,(release audit tool)是一个用来检查软件许可证发行的准确性和高效性的工具
+tez,
+schedoscope,hadoop作业敏捷调度的scala dsl;
+tableau,商业智能平台;
+springmvc,
+transformers,
+reef,(retainable evaluator execution framework) is a library for developing portable applications for cluster resource managers
+knockout.js,
+matlab,
+axis2,apache axis2是一个服务托管和消费框架，它使使用soap和web服务变得容易
+banana,对存储在kibana中solr. port的日志和时戳数据进行可视化;
+monkey,android平台的自动化测试工具
+深度学习,(英语:deep learning)，是一个多层神经网络是一种机器学习方法。
+velocity,一个基于java的模板引擎（template engine）。它允许任何人仅仅简单的使用模板语言（template language）来引用由java代码定义的对象。
+akka toolkit,jvm中分布性、容错事件驱动应用程序的运行时间;
+cartodb,开源或免费增值的虚拟主机，用于带有强大的前端编辑功能和api的地理空间数据库;
+chartio,精益业务智能平台，用于可视化和探索数据;
+leveldb,谷歌写的一个快速键-值存储库，它提供了从字符串键到字符串值的有序映射;
+talend,用于yarn、hadoop、hbase、hive、hcatalog和pig的统一开源环境;
+beego,一个用Go开发的应用框架
+drools,基于java的开源的规则引擎组件
+jedox palo,定制的商业智能平台;
+streampipes,一种自助式(工业)iot工具箱，使非技术用户可以连接，分析和浏览iot数据流
+c,一款面向过程的高效的编程语言，一般用于对运行速度有要求的场景
+cas,Central Authentication Service的缩写，中央认证服务，一种独立开放指令协议。
+mf testing,主机测试
+webpack,一个用于现代 JavaScript 应用程序的静态模块打包工具。
+ext.js,是一个流行的JavaScript框架，它为使用跨浏览器功能构建Web应用程序提供了丰富的UI。
+opennlp,一个用于处理自然语言文本的开源Java库。
+yarn,集群管理器;
+stado,提供了一个强大而且弹性的分析环境，让用户处理大量数据而不需要昂贵的商业数据仓库
+flagon,flagon是一个软件工具可用性测试平台/apache flagon是一套全面的瘦客户端行为日志记录工具
+keras,一个由Python编写的开源人工神经网络库，可以作为Tensorflow、Microsoft-CNTK和Theano的高阶应用程序接口，进行深度学习模型的设计、调试、评估、应用和可视化。
+wnc,wireless network communications.无线网络通信
+airavata,apache airavata是一个基于微服务架构的软件框架，用于在分布式计算资源(包括本地集群、超级计算机、国家网格、学术和商业云)上执行和管理计算作业和工作流。airavata主要用于构建基于web的科学网关，并协助组合、管理、执行和监视大型应用程序(包装为web服务)和由这些服务组成的工作流。
+ccie,全称Cisco Certified Internetwork Expert
+qlik,商业智能和分析平台;
+rru,射频拉远单元，remote radio unit
+axure,一款原型设计软件
+bokeh,一个功能强大的python交互式可视化库，它针对要展示的现代web浏览器，旨在为d3.js风格的新奇的图形提供优雅简洁的设计，同时在大规模数据或流数据集中，通过高性能交互性来表达这种能力;
+golang,用于数据分析的开发语言，也叫go语言
+freeboard,针对iot和其他web混搭的开源实时仪表盘构建;
+数据分析,
+pulsar,云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体
+高可用,
+visio,
+lucene,搜索引擎库;
+神经网络,
+fatcache,闪存的键/值缓存;
+bahir,扩展到分布式分析平台，如apache spark
+oracle,商用关系型数据库
+berkeleydb,为键/值数据提供一个高性能的嵌入式数据库的一个软件库;
+jenkins,
+阿里云,
+foxpro,
+cocoon,一个基于组件技术和xml和web应用开发框架
+ctakes,是一个用于从电子病历临床自由文本中提取信息的开源自然语言处理系统，它处理临床记录，从包括统一医学语言系统(umls)在内的各种词典中识别临床命名实体的类型——药物、疾病/失调、体征/症状、解剖部位和程序。每个命名实体都具有文本跨度、本体映射代码、主题(患者、家庭成员等)和上下文(否定的/未否定的、条件的、通用的、确定性程度)的属性。一些属性被表示为关系，例如临床条件的位置(locationof关系)或临床条件的严重程度(degreeof关系)。
+架构师,
+渗透测试,渗透测试是通过模拟恶意黑客的攻击方法，来评估计算机网络系统安全的一种评估方法。
+tornado,使用Python开发的全栈式（full-stack）Web框架和异步网络库
+uniapp,
+datastage,
+建模,
+angular.js,
+linkedin azkaban,批处理工作流作业调度;
+highcharts,简单而灵活的图表api;
+cockroachdb,
+mpp,(Massively Parallel Processing)，意为大规模并行处理系统
+test partner,
+bval,apache bval项目的目标是交付java bean验证规范(jsr303/346)的实现，该实现与tck兼容，并可在java se 6或更高版本上工作。该项目的初始代码库由agimatec gmbh的sga捐赠给asf，并使用apache软件许可2.0版本。
+ipo,
+mxnet,
+mahout,hadoop的机器学习库;
+verilog,一种硬件描述语言
+restful api,
+tso,
+netezza,
+vega,一个可视化语法;
+思维导图,
+monkeylearn,使文本挖掘更为容易，从文本中提取分类数据;
+vb,
+peity,渐进式svg条形图，折线和饼图;
+synapse,python写的通讯软件
+photoshop,
+websphere,
+文件系统,
+jfs,
+meteor,
+grails,
+asp,
+6w2h,
+sqlalchemy,
+kibana,可视化日志和时间标记数据;
+fineract,数字金融服务平台
+quartz,
+stanbol,一个为语义内容管理设计的模块化的软件堆栈和可重用组件
+symbian,
+概要设计,
+软件架构,
+katalon studio,
+jira,
+coffee.js,
+libcloud,是apache下整合多种云服务接口的项目
+lte,lte（long term evolution，长期演进)
+clearcase,
+omega,作业调度和监控系统;
+mind manager,
+qlikview,
+vpn,
+tempoiq,基于云的传感器分析;
+etch,etch是一个跨平台、语言和传输独立的框架，用于构建和使用网络服务。etch工具集包括一种网络服务描述语言、一个编译器和用于各种编程语言的绑定库。etch也是独立于传输的，允许基于需要和环境使用各种不同的传输。etch的目标是使定义小型、集中的服务变得简单，这些服务可以很容易地以类似的方式访问、组合和部署。有了etch，服务的开发和消费不再像图书馆的开发和消费那样困难。
+petri,是一种用于描述离散的、分布式系统的数学建模工具
+reactnative,
+helpdesk,当信息技术大规模应用于服务行业之后，帮助台概念也被引用进来。最初是应用于it设备密集型行业如金融、电信业，当硬件设备如故障或有麻烦时，人们被告知可以找帮助台的人来解决问题，这个帮助台就是it设备运维中心
+slider,一种yarn应用，用来部署yarn中现有的分布式应用程序;
+ambari,apache ambari使hadoop集群的供应、管理和监视非常简单。
+electron,使用javascript，html和css构建跨平台的桌面应用程序框架
+esme,apache esme(企业社交消息传递环境)是一个安全的、高度可伸缩的微共享和微消息传递平台，允许人们在业务流程上下文中互相发现和见面，并获得对其他信息源的受控访问。
+分布式数据库,
+tidb,
+teragoogle,大型搜索索引;
+xindice,
+oop,面向对象编程
+perfdog,
+大数据,
+redis,
+informix,
+rpc,
+retis,
+snappydata,用于实时运营分析的分布式内存数据存储，提供建立在spark单一集成集群中的数据流分析、oltp(联机事务处理)和olap(联机分析处理);
+it,
+erlang,
+warp,利用大数据(os x app)的实例查询工具。
+cdma,码分多址
+falcon,apache falcon是为hadoop设计的数据处理和管理解决方案，用于数据移动、数据管道协调、生命周期管理和数据发现。falcon使最终消费者能够在hadoop集群上快速加载数据及其相关的处理和管理任务。
+docker,
+skywalking,
+deltacloud,deltacloud包含一个云抽象api——无论是deltacloud经典api、dmtf cimi api，还是ec2 api。每个抽象api都是大量云的包装器，屏蔽了用户的差异。对于每个云提供商，都有一个驱动程序speaking”该云提供商的原生api，使您不必处理每个云api的细节。
+metricsgraphic.js,建立在d3之上的库，针对时间序列数据进行最优化;
+wds,(wireless distribution system)，无线分布系统
+powerbuilder,
+zabbix,
+tc,
+warnier,
+windows server,
+weex,
+spark-graphx,
+设计模式,
+murex,
+drat,drat是rat的map reduce版本，使用apache tika自动对代码基文件进行排序和分类，drat使用apache oodt将这些代码文件的元数据和tika信息索引到apache solr和oodt中，以生成map reduce工作流，drat在k大小的same-mime-typed的文件块(由tika检测)上增量地运行rat，然后生成增量的、每种类型的日志，最后将它们聚合并减少为一个组合日志。
+torch,
+全栈,
+php,
+文本分类,
+mcse,
+madlib,rdbms的用于数据分析的数据处理库;
+thingworx,thingworx 是让企业快速创建和运行互联应用程序平台;
+db2,
+nginx,
+hama,hama是一个高效、可扩展的通用bsp计算引擎。
+sqlite,一种微型数据库
+tapestry,
+汇编语言,
+业务分析,
+devops,
+sso,单点登录
+面向对象,
+pivotalr,pivotal hd / hawq和postgresql中的r;
+嵌入式,
+ispf,
+ipython,为交互式计算提供丰富的架构;
+chainsaw,apache chainsaw是一个gui日志查看器。
+kyc,know your customer
+chubby,一种松耦合分布式系统锁服务;
+gridmix3,雅虎工程师团队的hadoop集群基准测试。
+项目管理,
+jethrodata,交互式大数据分析。
+hessian,
+eai,
+embedded c++,嵌入式c，一般用于芯片或基于芯片的应用的开发
+phoenix framework,
+graphlab create,python的机器学习平台，包括ml工具包、数据工程和部署工具的广泛集合;
+数据结构,
+lisp,
+spark-mlib,
+allura,apache airavata是一个基于微服务架构的软件框架，用于在分布式计算资源(包括本地集群、超级计算机、国家网格、学术和商业云)上执行和管理计算作业和工作流。airavata主要用于构建基于web的科学网关，并协助组合、管理、执行和监视大型应用程序(包装为web服务)和由这些服务组成的工作流。
+slick,
+pdca,
+xgboost,
+revel,
+dubbo,
+it security,
+ceph,
+业务设计,
+fpml,
+qa,
+infra,
+dtmb,digital terrestrial multimedia broadcast，即地面数字多媒体广播
+recline,简单但功能强大的库，纯粹利用javascript和html构建数据应用;
+jsp,
+ue,
+gump,gump为各种开放源码项目提供大规模的持续集成。
+dolphinscheduler,一个分布式和可扩展的工作流调度平台，具有强大的dag可视化接口
+powerdesigner,
+qubole,为自动缩放hadoop集群，内置的数据连接器;
+parquet,
+c/s,客户端/服务器架构
+ofbiz,一个非常著名的电子商务平台，是一个非常著名的开源项目，提供了创建基于最新j2ee/xml规范和技术标准，构建大中型企业级、跨平台、跨数据库、跨应用服务器的多层、分布式电子商务类web应用系统的框架
+webscalesql,
+dos,
+atlas,atlas是一组可伸缩和可扩展的核心基础治理服务——使企业能够有效地、高效地满足其在hadoop中的遵从性需求，并允许与整个企业数据生态系统集成。
+d3,操作文件的javascript库;
+并发,
+pandas,
+chemistry,apache chemistry提供了内容管理互操作性服务(cmis)规范的开源实现。库可用于java、python、php和。net。
+datasketches,一个开源、高性能的流算法库，在数据科学中通常被称为sketches”。sketches是一种小型的、有状态的程序，它以流的形式处理大量数据，并可以提供近似的答案，并提供数学保证，以比传统的精确方法更快的数量级来解决计算困难的查询
+samoa,分布式流媒体机器学习框架;
+安装实施,
+大型机,
+数据集市,
+华为云,
+zookeeper,服务协调
+etcml,机器学习文本分类;
+bitbucket,
+fop,fop(格式化对象处理器)是世界上第一个由xsl格式化对象(xsl- fo)驱动的打印格式化程序，也是世界上第一个独立于输出的格式化程序。它是一个读取格式化对象(fo)树并将结果页面呈现到指定输出的java应用程序。目前支持的输出格式包括pdf、pcl、ps、svg、xml(区域树表示)、print、awt、mif和txt。主要输出目标是pdf。
+centos,
+spark mllib,spark中一些常用的机器学习(ml)功能的实现;
+css,层叠样式表
+html,
+robotium,
+springcloud,
+dataworks,
+vdi,
+webex,
+数据湖,
+spagobi,开源商业智能平台;
+区块链,
+mysql cluster,
+pivot,一个开放源代码平台，用于构建可安装的internet应用程序
+cubism,用于时间序列可视化的javascript库;
+功能测试,
+sme,
+elk,
+access,微软的小型数据库
+att&ck,
+axis,
+c3,基于d3可重复使用的图表库;
+crossfilter,javascript库，用于在浏览器中探索多元大数据集，用dc.js和d3.js.效果很好;
+tensorflow,
+calcite,是一个用于编写数据管理系统的框架。它使用可插入查询转换规则将以关系代数表示的查询转换为有效的可执行形式。有一个可选的sql解析器和jdbc驱动程序。calcite不存储数据，也没有首选的执行引擎。数据格式、执行算法、规划规则、操作员类型、元数据和成本模型在运行时作为插件添加。
+文本生成,
+kibble,apache kibble 是一个活动报告平台，用于收集、汇总、分析和可视化软件项目和社区中的活动
+jaspersoft,功能强大的商业智能套件;
+lmdb,symas开发的超快、超紧凑的键-值嵌入的式数据存储;
+数据标注,
+pytorch,
+scipy,
+mongodb,
+cobol,一种应用于主机的开发语言
+hue,和hadoop进行交互的web应用程序;
+x86,
+用例图,
+nltk,
+车联网,
+spacy,Python 和 CPython 的 NLP 自然语言文本处理库。
+spring xd,数据摄取、实时分析、批量处理和数据导出的分布式、可扩展系统;
+springbatch,
+iot,（Internet of Things，简称IoT）是指通过各种信息传感器、射频识别技术、全球定位系统、红外感应器、激光扫描器等各种装置与技术，实时采集任何需要监控、 连接、互动的物体或过程，采集其声、光、热、电、力学、化学、生物、位置等各种需要的信息，通过各类可能的网络接入，实现物与物、物与人的泛在连接，实现对物品和过程的智能化感知、识别和管理
+protopie,模拟仿真软件
+doris,一个基于mpp的交互式sql数据仓库，用于报告和分析
+eagle,apache eagle是一个开源的分析解决方案，用于在大数据平台上立即识别安全和性能问题，例如apache hadoop，spark。它分析了数据活动、yarn应用程序、jmx指标和守护进程日志等，提供了最先进的警报引擎，以识别安全漏洞、性能问题并显示洞察。
+perl,一种编程语言
+系统架构,
+freemarker,
+流程图,
+数据库设计,
+qarun,
+ejb,enterprise java bean
+mcdipper,闪存的键/值缓存;
+b+tree,
+主机,
+oryx,实时大规模机器学习;
+敏捷开发,
+turbine,基于servlet的框架包
+azkaban,
+flutter,
+iso,
+crystal reports,微软的报表组件
+vsftpd,
+orc,
+vba,
+qengine,
+power bi,
+ood,面向对象设计
+devicemap,apache devicemap是一个包含设备属性及其相关浏览器和操作系统的数据存储库。该项目还维护一个api来对这些属性进行分类。
+敏捷,
+流式计算,
+数据清洗,
+hadoop,
+kappa,大数据架构。实现流批一体。
+avaya ipo,ipd电话系统平台
+haskell,
+swot,
+paddle,
+aries,aries项目正在交付一组可插入的java组件，支持企业osgi应用程序编程模型。这包括osgi联盟企业专家组(eeg)定义的以应用程序为中心的规范的实现和扩展，以及多包应用程序的汇编格式，用于部署到各种基于osgi的运行时。
+eventhub,开源的事件分析平台;
+dis,数字信息系统（digital information system）
+数据仓库,
+vcl,
+unix,一种操作系统
+plotly.js,支持plotly的开源javascript图形库;
+datax,阿里开源的一个异构数据源离线同步工具，致力于实现包括关系型数据库(MySQL、Oracle等)、HDFS、Hive、ODPS、HBase、FTP等各种异构数据源之间稳定高效的数据同步功能。
+percona server,一款独立的数据库产品，其可以完全与MySQL兼容，可以在不更改代码的情况了下将存储引擎更换成XtraDB 。
+质检,
+pattern,模式
+python,一种编程语言，有强大的支持库。多用于数据分析、挖掘，AI，机器学习。也用于轻量应用的开发。
+solr,用于lucene的搜索平台;
+hanoidb,erlang lsm btree存储;
+testlink,测试管理工具
+vc++,
+nlp,自然语言处理
+hybirdapp,（混合模式移动应用）是指介于web-app、native-app这两者之间的app，兼具Native App良好用户交互体验的优势”和Web App跨平台开发的优势”。
+详细设计,
+加密,
+ssis,Microsoft SQL Server Integration Services的简称，是生成高性能数据集成解决方案（包括数据仓库的提取、转换和加载 (ETL) 包）的平台。
+javascript,浏览器端脚本
+fusioncharts,InfoSoft Global公司的一个数据图形化产品
+图像算法,
+鸿蒙,华为出的移动操作系统
+postgre,一款关系型数据库
+enigma.io,为免费增值的健壮性web应用，用于探索、筛选、分析、搜索和导出来自网络的大规模数据集;
+ik analyzer,一个分词器
+响应式,
+汇编,
+telelogic tau,一款UML软件
+需求分析,
+vmware esxi,一款虚拟化软件。
+jbosseap,企业应用平台
+实施顾问,
+html5,
+性能测试,
+kubernetes,简称K8s，是用8代替名字中间的8个字符ubernete”而成的缩写。是一个开源的，用于管理云平台中多个主机上的容器化的应用
+qpid,一种消息队列，实现了amqp协议，并且支持多种语言与多种平台
+hibernate,一个开源免费的、基于 ORM 技术的 Java 持久化框架。
+linq,微软的数据库orm框架
+ibatis,一个开源免费的、基于 ORM 技术的 Java 持久化框架。
+predictionio,建于hadoop、mahout和cascading上的机器学习服务器;
+apriori,第一个关联规则挖掘算法，也是最经典的算法
+poseidon,一个日志搜索平台，可以在数百万亿条、数百 PB 大小的日志数据中快速分析和检索特定字符串。
+scala,一种基于jvm的语言
+d3plus,一组相当强大的可重用的图表，还有d3.js的样式;
+pl/sql,oracle的sql工具
+imhotep,大规模分析平台;
+cisco ap,
+sqlserver,微软的关系型数据库
+mapreduce,一种编程模型，用于大规模数据集（大于1TB）的并行运算。
+bime analytics,商业智能云平台;
+argocd,ArgoCD 是市场上第一个以在 Kubernetes 上基于声明性 GitOps 的部署而闻名的公司之一，是最常用的持续交付工具之一。它以其在 Kubernetes 上出色的应用程序部署和管理以及自动修复集群、用户访问管理、状态检查等功能而闻名。
+oodt,用于nasa科学档案中数据的捕获、处理和共享;
+intel hibench,hadoop基准测试套件;
+cucumber,一种测试框架
+puppeteer,
+yui+,
+plc4x,a set of libraries for communicating with industrial programmable logic controllers (plcs)
+figma,一款在线的 UI 设计工具，可以简单粗暴地理解为在线版的 Sketch或者XD，可用来完成用户界面设计、原型设计和交互设计等。
+cayenne,cayenne是一个功能强大、功能齐全的开源框架，专为使用关系数据库的开发人员创建。它无缝地将任何关系数据库映射到java对象，减少了开发时间，并为任何需要数据库的应用程序添加了相当多的功能。使用cayenne的开发人员将能够专注于核心业务需求和数据模型，而不是sql细节。然后可以轻松地将应用程序移动到任何支持jdbc的数据库。除了管理映射到关系数据库的持久java对象之外，cayenne还提供了大量的特性，包括单方法调用查询和更新(包括所有修改对象的原子更新)、将多个数据库无缝集成到单个虚拟数据源、在远程客户机上进行缓存的三层持久性、结果分页、记录锁定以及更多的特性
+iptables,
+h2o,hadoop统计性的机器学习和数学运行时间;
+saprk-sql,
+bi,
+vue,
+数据挖掘,
+mac,
+charts,简单的图表api;
+drill,apache drill是一个分布式mpp查询层，它支持针对nosql和hadoop数据存储系统的sql和其他查询语言。
+ui,
+决策,
+ember.js,
+cytoscape,用于可视化复杂网络的javascript库;
+saltstack,
+zoomdata,大数据分析;
+endtest,
+gprs,general packet radio service，中文名称为通用无线分组业务
+numpy,python实现的科学计算包
+ssis/ssas/ssrs,
+sdsf,
+karaf,在任何osgi框架之上运行的osgi运行时间;
+rust,一种开发语言
+多线程,
+sphinx search server,全文搜索引擎
+jest,
+eclipse birt,基于eclipse的报告系统;
+guacamole,apache guacamole是一个无客户端远程桌面网关，它支持vnc、rdp和ssh等标准协议。我们称之为无客户端”，因为不需要插件或客户端软件。一旦在服务器上安装了guacamole，所有你需要访问你的桌面是一个网络浏览器。
+微服务,一种软件开发技术- 面向服务的体系结构（SOA）架构样式的一种变体，它提倡将单一应用程序划分成一组小的服务，服务之间互相协调、互相配合，为用户提供最终价值
+规格说明书,
+etl,英文Extract-Transform-Load的缩写，用来描述将数据从来源端经过抽取（extract）、转换（transform）、加载（load）至目的端的过程。
+pmp,项目管理专业人士资格认证
+dba,数据库管理员
+业务测试,
+struts,
+信用卡,
+fluo,大规模数据集增量处理系统， fluo 是  google percolator（搜索索引）的开源实现，允许用户对存储在 apache accumulo 中的大型数据集进行增量更新，而无需重新处理所有的数据。
+logstash,
+concurrent pattern,cascading的机器学习库;
+celix,apache celix是动态服务框架的实现，其灵感来自于osgi规范，并适应于c和c++ (c++ 17)。它是一个使用组件和进程内面向服务编程开发动态模块化软件应用程序的框架。
+vowpal wabbit,微软和雅虎发起的学习系统;
+jms,java消息系统
+ccnp,
+julia,
+typescript,
+chronos,分布式容错调度;
+kano,
+linkedin zoie,是用java编写的实时搜索/索引系统;
+confluence,
+web前端,
+pig,
+cucm,思科统一通信解决方案中强大的呼叫处理组件。它是一个可扩展、可分布、高度可用的企业ip语音呼叫处理解决方案
+spark-streaming,
+smart,
+axiom,apache axiom是一个基于stax的、符合xml infoset的对象模型，它支持按需构建对象树。它支持一种新颖的拉通”模型，该模型允许关闭树的构建并直接访问底层的拉事件流。它还内置了对xml优化打包(xop)和mtom的支持，两者的结合允许xml以透明的方式高效地携带二进制数据。这两者的结合是一个易于使用的api，具有非常高性能的体系结构!
+erwin,
+go,也叫golang，一种用于数据分析的开发语言
+tigon,
+everest,
+load runner,
+系统分析,
+phoenix,
+blackberry,
+curator,是apache zookeeper(分布式协调服务)的java/jvm客户端库。它包括一个高级api框架和实用程序，使用apache zookeeper更加容易和可靠。它还包括常用用例和扩展的方法，如服务发现和java 8异步dsl。
+消息队列,
+白盒测试,
+特征工程,
+aix,
+sqoop,
+sdlc,
+bidmach,cpu和加速gpu的机器学习库。
+ruby,一种开发语言
+santuario,this  project is aimed at providing implementation of the primary security standards for xml
+evrythng,evrythng则是一款真正意义上的大众物联网平台，使得身边的很多产品变得智能化。
+caffeine,连续索引系统;
+a/b测试,就是为同一个目标制定两个方案（比如两个页面），让一部分用户使用 a 方案，另一部分用户使用 b 方案，记录下用户的使用情况，看哪个方案更符合设计
+transformer,
+edgent,edgent是一个流处理编程模型和轻量级运行在边缘设备或网关设备上执行分析。
+zigbee,一种应用于短距离和低速率下的无线通信技术
+算法,
+web开发,
+rpg,
+suse,
+fnordmetric,写sql查询，返回svg图表，而不是表;
+splunk,用于机器生成的数据的分析;
+图像处理,
+brooklyn,brooklyn是关于部署和管理应用程序的:为应用程序组合一个完整的堆栈;部署到云和非云目标;使用监视工具收集关键的运行状况/性能指标;响应诸如节点故障等情况;并根据需求增加或减少产能。
+多任务管理,
+canvas,
+winrunner,一种企业级的功能测试工具，用于检测应用程序是否能够达到预期的功能及正常运行
+手动测试,
+rs/6000,
+quick bi,
+lambda,
+hlr,gsm系统的中央数据库，存放着所有归属用户的信息，如用户的有关号码（imsi和msisdn）、用户类别、漫游能力、签约业务和补充业务等。此外，hlr还存储着每个归属用户有关的动态数据信息，如用户当前漫游所在的msc/vlr地址（即位置信息）和分配给用户的补充业务
+streaming,
+axios,
+optimus,
+delphi,
+tcl,
+appeals,
+pure,
+greenplum,
+ssm,
+debian,
+vb.net,
+问题识别,
+搜索算法,
+kettle,
+wbs,
+sas,
+countly,基于node.js和mongodb，开源的手机和网络分析平台;
+gora,apache gora开源框架为大数据提供了内存中的数据模型和持久性。gora支持持久化到列存储、键值存储、文档存储和rdbms，并使用广泛的apache hadoop mapreduce支持分析数据。
+瀑布,
+twemproxy,memcached和redis的快速、轻型代理;
+amazon rds,
+kylin,来自ebay的开源分布式分析工具;
+holodeck,强大的故障植入软件测试工具
+linkedin galene,linkedin搜索架构;
+swing,
+data marts,
+kotlin,一种基于jvm的编程语言
+sdm,(security device manager)是cisco公司提供的全新图形化路由器管理工具
+brain,javascript中的神经网络;
+unicorn,社交图形搜索平台;
+hawq,一个hadoop原生sql查询引擎，它结合了mpp数据库的关键技术优势和hadoop的可伸缩性和便利性
+dc.js,维度图表，和crossfilter一起使用，通过d3.js呈现出来，它比较擅长连接图表/附加的元数据，从而徘徊在d3的事件附近;
+websh,
+sql,结构化查询语言
+open shift,
+knox,三星的一款基于开源android平台的安全解决方案
+cmmi,CMMI的全称为Capability Maturity Model Integration，即能力成熟度模型集成
+jcl,
+sparrow,调度平台;
+ocaml,
+shardingsphere,一款分布式的数据库生态系统， 可以将任意数据库转换为分布式数据库，并通过数据分片、弹性伸缩、加密等能力对原有数据库进行增强
+prism,多数据中心复制系统;
+tcp/ip,（Transmission Control Protocol/Internet Protocol，传输控制协议/网际协议）是指能够在多个不同网络间实现信息传输的协议簇。TCP/IP协议不仅仅指的是TCP 和IP两个协议，而是指一个由FTP、SMTP、TCP、UDP、IP等协议构成的协议簇， 只是因为在TCP/IP协议中TCP协议和IP协议最具代表性，所以被称为TCP/IP协议
+fluo yarn,apache fluo yarn是一个在apache hadoop yarn中运行apache fluo应用程序的工具
+dart,
+microstrategy,商业智能、移动智能和网络应用软件平台;
+mybatis,
+用户体验设计,
+nhibernate,
+wcdma,指宽带码分多址
+c++,兼容c语言的一种面向过程和对象的开发语言
+fireworks,
+yoeman.js,
+netty,
+云计算,
+flask,
+时序图,
+git,
+appium,
+oraclerac,
+hipi library,在hadoop’s mapreduce上执行图像处理任务的api;
+oozie,工作流作业调度程序;
+jqueryui,
+openwhisk,是一个由 ibm 开源的、事件驱动的无服务器计算平台
+xmind,思维导图软件
+stl,
+maxcompute,
+percolator,连续索引系统;
+os/2,
+drizzle,
+qtp,
+whirr,运行云服务的库集;
+weblogic,
+datapine,基于云的自助服务商业智能工具;
+小型机,
+安全实施,
+sibyl,google中的大规模机器学习系统;
+ubus,为openwrt平台开发中的进程间通信提供了一个通用的框架
+samza,
+黑莓,
+apex,apache apex是一个大数据流和批处理的统一平台。用例包括摄入、etl、实时分析、警报和实时操作。apex是一个hadoop原生的yarn实现，默认使用hdfs。它通过缩短上市时间，简化了hadoop应用程序的开发和产品化。主要特性包括企业级可操作性、容错、状态管理、事件处理保证、无数据丢失、内存内性能和可伸缩性以及本地窗口支持。
+rivet,light weight framework to develop services with standardized interfaces， reusable modules and actions
+分布式文件系统,
+ifttt,ifttt 是一个被称为 网络自动化神器” 的创新型互联网服务，它的全称是 if this then that，意思是如果这样，那么就那样”;
+ubuntu,
+murex3,
+数据治理,
+jmx,
+产品开发,
+sentry,存储在hadoop的数据安全模块。
+uml,
+iceberg,
+buildoop,基于groovy语言，和bigtop类似;
+autorunner,
+sybase,
+clerezza,通过提供操作rdf数据的工具、使用scalaserverpages创建restful web服务和renderlet， clerezza可以轻松地开发语义web应用程序。内容根据w3c rdf规范存储为三元组。这些三元组通过clerezza的智能内容绑定(scb)存储。scb定义了一个与技术无关的层来访问和修改三重存储。它提供了由w3c rdf指定的图数据模型的java实现，以及对该数据模型进行操作的功能。scb提供了访问多个命名图的服务接口，它可以使用各种提供者以特定于技术的方式管理rdf图，例如，使用jena或sesame。它还提供了允许应用程序使用各种api(包括jena api)来处理rdf图的适配器。此外，scb提供序列化和解析服务，将图转换为某种表示(格式)，反之亦然。
+spss,
+小程序,
+urule,
+oltp,
+springboot,
+archiva,archiva是maven、continuum和ant等构建工具的完美伴侣。archiva提供了多种功能，其中包括远程存储库代理、安全访问管理、构建工件存储、交付、浏览、索引和使用报告、可扩展扫描功能等等!
+geronimo,apache geronimo是一个开源服务器运行时，它集成了最好的开源项目来创建满足企业开发人员和系统管理员需求的java/osgi服务器运行时。
+uhttpd,物联网设备常见的web服务器
+arbor,利用网络工作者和jquery的图形可视化库;
+websocket,
+索引,
+品质管理,
+红黑树,
+图像识别,
+mf,mainframe
+nupic,智能计算的numenta平台，它是一个启发大脑的机器智力平台，基于皮质学习算法的精准的生物神经网络;
+weka,机器学习软件套件;
+proxysql,
+b/s,
+嵌入式数据库,
+crunch,apache crunch java库提供了一个编写、测试和运行mapreduce管道的框架。它的目标是使由许多用户定义函数组成的管道易于编写、易于测试和高效运行。
+submarine,
+jboss,
+dlab,datalab是一个使用最佳数据科学工具在云中创建自助服务、探索性数据科学环境的平台。
+多进程,
+品质管理/测试,
+snowplow,企业级网络和事件分析，由hadoop、kinesis、redshift 和postgres提供技术支持;
+iseries,使用在大型公司内的小型商业团体和部门。在这条产品线中，比较著名的如as/400系统
+sendgrid,一个电子邮件服务平台，可以帮助市场营销人员跟踪他们的电子邮件统计数据
+borg,作业调度和监控系统;
+系统设计,
+易语言,
+databricks,
+回归测试,
+argus,时间序列监测和报警平台;
+daffodil,是数据格式描述语言（data format description language）dfdl 1.0 规范的开源实现，以实现通用数据交换.apache daffodil 实现则改变了复杂的文本和二进制数据接口的规则，可以实现数据分解、检查和重新组装等高复杂度的流程。通过 daffodil，用户可以将各种数据在 xml、json 或任何数据结构之间转换，而不用花费大量时间担心如何处理种类繁多的数据。因此，apache daffodil 尤其适用于政府和大型企业这样的大型组织。在这些组织中，每天必须交换大量复杂和遗留的数据，并使其可以访问。
+oauth2,
+中间件,
+r,
+openmpi,消息传递框架;
+saiku,开源的分析平台;
+dpd,(digital pre-distortion)，简单来说就数字预失真
+geode,apache geode是一个数据管理平台，它通过广泛分布的云架构提供对数据密集型应用程序的实时、一致的访问。geode跨多个进程池内存、cpu、网络资源以及可选的本地磁盘，以管理应用程序对象和行为。它使用动态复制和数据分区技术来实现高可用性、改进的性能、可伸缩性和容错。除了作为分布式数据容器之外，geode还是一个内存数据管理系统，它提供可靠的异步事件通知和有保证的消息传递。
+ssrs,
+jackrabbit,apache jackrabbit是一个完全符合java技术api (jcr)内容存储库的实现
+opencv,
+sigma.js,javascript库，专门用于图形绘制;
+jdbc,
+mpls,一般指多协议标签交换。 多协议标签交换（multi-protocol label switching，缩写为mpls）是一种在开放的通信网上利用标签引导数据高速、高效传输的新技术
+图数据库,
+zos,
+gcp,谷歌云平台
+etsy conjecture,scalding中可扩展的机器学习;
+hortonworks hoya,可在yarn上部署hbase集群的应用;
+mlbase,用于bdas堆栈的分布式机器学习库;
+redmine,一款ruby开发的项目管理工具
+avro,apache avro是一个数据序列化系统。
+azure,微软的云平台
+swift,苹果的开发语言
+fluentd,一个开源的通用日志采集和分发系统，可以从多个数据源采集日志，并将日志过滤和加工后分发到多种存储和处理系统。
+nvd3,d3.js的图表组件;
+deltaspike,是一套可移植的cdi(contexts & dependency injection)扩展目的是在使用cdi和java ee时使应用开发更容易。它的一些主要特性包括:—支持组件配置、类型安全消息传递和国际化以及异常处理的核心运行时。-一套实用程序，使程序化bean查找更容易。java se的一个插件，可以在容器外引导jboss weld和apache openwebbeans。jsf集成，包括对java ee 6的jsf 2.2特性的回移植。- jpa集成和事务支持。- data模块，用于在jpa之上创建易于使用的存储库模式。- quartz集成测试支持也提供了，允许你做低水平的单元测试你的cdi启用的项目。
+livy,livy is an open source rest interface for interacting with apache spark from anywhere
+java,目前非常流行的应用开发语言
+mindsdb,一种将机器学习引入现有的SQL数据库的工具，它连接了数据与模型。
+fpga,（field programmable gate array）是在pal （可编程阵列逻辑）、gal（通用阵列逻辑）等可编程器件的基础上进一步发展的产物
+vxworks,一个实时操作系统
+原型,
+encog,支持多种先进算法的机器学习框架，同时支持类的标准化和处理数据;
+vse,一个虚拟服务程序，应用平台为Windows
+windows,微软的商用操作系统
+chef,一个系统集成框架，为整个架构提供配置管理功能
+mindjet,
+pmi,项目管理协会，是世界领先的非盈利会员协会的项目管理专业机构 
+ivyde,用ivyde插件集成eclipse中的ivy。
+1104,指2003年11月4日银监会召开的银行业金融机构监管信息系统建设主席办公会和监管信息系统建设领导小组会议上决定启动的银行业金融机构监督信息系统。
+计算机视觉,
+django,
+xure,原型制作软件
+nutch,一个开源java实现的搜索引擎
+tika,内容分析工具包;
+graphite,可扩展的实时图表;
+memcachedb,一个缓存组件
+shell,
+安全测试,
+调优,
+linkedin bobo,完全由java编写的分面搜索的实现，为lucene的延伸;
+spring,
+mvc,模型视图控制器
+grpc,google开发的一个高性能、通用的开源RPC框架，主要面向移动应用开发且基于HTTP/2协议标准而设计，同时支持大多数流行的编程语言。
+数据建模,
+kvm,
+黑盒测试,
+it治理,
+并行计算,
+superset,
+bigtop,bigtop是一个用于开发apache hadoop生态系统的打包和测试的项目。bigtop的主要目标是围绕hadoop相关项目的打包和互操作性测试建立一个社区。这包括在不同级别(打包、平台、运行时、升级等)的测试，这些测试是由社区开发的，关注的是整个系统，而不是单个项目。简而言之，我们努力成为hadoop的一部分，就像debian之于linux一样。
+c/c++,
+分布式,
+servicecomb,一种开箱即用的微服务解决方案，无需任何编码即可提供微服务治理能力，
+app自动化测试,
+gsm,全球移动通信系统(global system for mobile communications)
+鱼骨图,
+cognos,一款功能强大的商业智能BI解决方案，更便捷更迅速更可靠地进行数据准备，产出数据报表.
+blue prism,一款rpa软件
+kiji,基于hbase，实时采集和分析数据的框架;
+microsoft,商业智能软件和平台;
+jieba,国产分词工具
+kornia,
+powershell,
+directmemory,apache directmemory是java虚拟机的堆外缓存，apache directmemory 是一个多层的缓存系统，特性包括无堆的内存管理用于支持大规模的 java 对象，而不会影响 jvm 垃圾收集器的性能。
+aurora,aurora是一个服务调度器，用于将作业调度到apache mesos上。
+需求评审,
+glassfish,
+soa,Service-Oriented Architecture，面向服务架构
+jpa,
+haboopdb,
+esb,指企业服务总线
+hadoop benchmarking,测试hadoop性能的微基准;
+redhat,
+hudi,hadoop updates and incrementals(数据湖)
+zeppelin,一个笔记本式的协作数据分析;
+griffin,一个大数据的数据质量解决方案，包括流和批处理模式。它提供了从不同角度度量数据质量的统一流程。
+自然语言处理,
+osgi,
+pubnub,数据流网络;
+druid,apache druid是一个支持现代分析应用程序的实时数据库。连接池是阿里巴巴开源的数据库连接池项目
+solaris,
+sparkr,spark的r前端;
+规则引擎,
+datafu,apache datafu包含两个库:apache datafu pig是apache pig中用于数据分析的一组有用的用户定义函数。apache datafu hourglass是一个使用apache hadoop mapreduce增量处理数据的库。这个库的灵感来自于日常跟踪数据中滑动窗口计算的普及。诸如此类的计算通常定期进行(例如每天、每周)，因此计算的滑动性质意味着许多工作是不必要的重复。datafu的沙漏是为了提高这些计算的效率而创建的，有时可以减少50-95%的计算资源。
+helix,用于分区和复制分布式资源的集群管理框架
+tibico,
+b-tree,
+socket,
+object-c,苹果的开发语言
+cxf,一个开源的 Services 框架
+watir,
+zing charts,用于大数据的javascript图表库。
+maven,
+serf,服务发现和协调的分散化解决方案;
+storm,
+sketch,
+shiny,针对r的web应用程序框架;
+itil,
+nexus,
+plm,
+selenium,
+recdb,
+embedded c,嵌入式c，一般用于芯片或基于芯片的应用的开发
+anakia,anakia是一个xml转换工具，它使用jdom和velocity将xml文档转换为您选择的格式。它提供了一种使用ant样式任务和xsl处理xml文件的替代方案。
+jbossas,
+marathon,用于长期运行服务的mesos框架。
+ansible,
+asr,自动语音识别(automatic speech recognition)
+acid,关系数据库在写入或更新资料的过程中，为保证事务（transaction）是正确可靠的，所必须具备的四个特性：原子性（atomicity，或称不可分割性）、一致性（consistency）、隔离性（isolation，又称独立性）、持久性（durability）
+wsus,windows server update services
+jes,
+harmony,apache harmony软件是java运行时一个具有类库和相关工具的模块。
+nfs,
+decider,ruby中灵活、可扩展的机器学习;
+iotdb,apache iotdb (database for internet of things)是为时间序列数据设计的集成数据管理引擎;apache iotdb能够满足物联网工业领域对海量数据存储、高速数据摄取和复杂数据分析的需求。
+derby,
+prolog,programming in logic
+2lemetry,物联网平台;
+数据架构,
+forrest,apache forrest软件是一个发布框架，它将来自各种来源的输入转换为一种或多种输出格式的统一表示。apache forrest的模块化和可扩展插件架构基于apache cocoon和将表示与内容分离的相关行业标准。forrest可以生成静态文档，或者用作动态服务器，或者通过其自动化设施进行部署。
+samba,
+网络,
+ad,
+mainframe,
+.net,微软的一种用于构建多种应用的开发平台
+domino,运行、规划、共享和部署模型——没有任何基础设施;
+gobblin,分布式数据集成框架，简化大数据集成的常见方面，如数据摄取、复制、组织和生命周期管理，用于流数据和批数据生态系统
+mlpneuralnet,针对ios和mac os x的快速多层感知神经网络库;
+低代码,
+物联网,
+数据编织,
+elephant bird,lzo压缩数据的工作库;
+集成测试,
+ci/cd,ci、cd 其实是三个概念，包含了一个 ci 和两个 cd，ci全称 continuous integration，表示持续集成，cd包含 continuous delivery和 continuous deployment，分别是持续交付和持续部署
+flink,
+gephi,屡获殊荣的开源平台，可视化和操纵大型图形和网络连接，有点像photoshop，但是针对于图表，适用于windows和mac os x;
+node.js,
+高并发,
+仿真测试,
+chatgpt,
+puppet,
+ivy,apache ivy是一个面向java依赖管理的非常强大的依赖管理器，尽管它可以用于管理任何类型的依赖。
+v+,
+easyui,
+struts2,
+数据库管理,
+测试用例,
+sumo logic,基于云的分析仪，用于分析机器生成的数据;
+rocksdb,基于性leveldb，用于快速存储的嵌入式持续性键-值存储。
+easyocr,
+rational robot,
+kudu,
+shindig,是apache的一个开源项目，实现了google的opensocial容器开源项目
+rnn,递归神经网络
+gensim,
+playwright,
+tokudb,
+actian psql,pervasive software公司开发的acid兼容的dbms，在应用程序中嵌入了优化;
+机器学习,
+cnn,Convolutional Neural Network(卷积神经网络)
+poi,
+项目经理,
+预训练模型,
+hermes,建于kafka上的异步消息代理;
+spotify luigi,一种构建批处理作业的复杂管道的python包，它能够处理依赖性解析、工作流管理、可视化、故障处理、命令行一体化等等问题;
+特征提取,指使用计算机提取图像中属于特征性的信息的方法及过程
+envision.js,动态html5可视化;
+knox gateway,hadoop集群安全访问的单点;
+redux,Redux对于JavaScript应用而言是一个可预测状态的容器。换言之，它是一个应用数据流框架，而不是传统的像underscore.js或者AngularJs那样的库或者框架。
+dogtail,一款linux桌面GUI自动化测试工具
+abc,质量管理术语
+it支持,
+efk,(Elasticsearch+Filebeat+Kibana)日志收集系统
+ignite,apache ignite是一个分布式数据库，用于具有内存速度的高性能计算。
+microservice,微服务
+gan,生成对抗网络
